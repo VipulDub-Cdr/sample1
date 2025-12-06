@@ -2,7 +2,8 @@
 using namespace std;
 
 int main() {
-    int count = 0;
-    cout<<count;
+    int count2 = 0;
+    int count3;
+    cout<<count2;
     return 0;
 }
